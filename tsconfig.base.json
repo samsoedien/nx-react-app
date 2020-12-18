@@ -17,7 +17,8 @@
     "paths": {
       "@nx-react-app/shared/ui-component": [
         "libs/shared/ui-component/src/index.ts"
-      ]
+      ],
+      "@nx-react-app/shared/storybook": ["libs/shared/storybook/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

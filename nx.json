@@ -34,14 +34,21 @@
     },
     "client-e2e": {
       "tags": [],
-      "implicitDependencies": ["client"]
+      "implicitDependencies": [
+        "client"
+      ]
     },
     "shared-ui-component": {
       "tags": []
     },
     "shared-ui-component-e2e": {
       "tags": [],
-      "implicitDependencies": ["shared-ui-component"]
+      "implicitDependencies": [
+        "shared-ui-component"
+      ]
+    },
+    "shared-storybook": {
+      "tags": []
     }
   }
 }
