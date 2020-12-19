@@ -1,4 +1,4 @@
-# NxReactApp Sandbox app
+# NxReactApp Sandbox
 
 This project was generated using [Nx](https://nx.dev).
 
